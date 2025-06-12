@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @OfficialjustleoDev but you can call Leo
-- 👀 I’m interested in Software development and Web Design
-- 🌱 I’m currently learning Java, C++  to name a few
-- 🌱 I’m currently learning C# (DotNet Framework)
-- 💞️ I’m looking to collaborate on any open source Software
-- 📫 How to reach me, typically by email - Leothokozanimahlangu@gmail.com
-- ⚡ Fun fact: I love painting and baking.
+- 👋 Hi, I’m Leo
+- 👀 I’m currently working with .NET technologies like ASP.NET Core and Entity Framework
+- 🌱 I’m a Junior Software Engineer passionate about learning, clean code, and solving real-world problems
+- 💞️ I’m looking to collaborate on open-source projects that use .NET or involve automation testing (especially with Playwright)
+- 📫 Reach me at: Leothokozanimahlangu@gmail.com
+- ⚡ Fun fact: I love painting!
 
 <!---
 OfficialjustleoDev/OfficialjustleoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
