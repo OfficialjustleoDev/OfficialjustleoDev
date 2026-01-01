@@ -31,3 +31,7 @@ I’m passionate about clean code, continuous learning, and building reliable sy
 🔹 Number Sort
 🔹 South African Tax Calculator
 🔹 Student Accomodation Site 
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/leo-m-14494a225/
+- Email: leothokozanimahlangu@gmail.com
