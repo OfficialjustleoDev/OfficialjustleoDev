@@ -23,3 +23,11 @@ I’m passionate about clean code, continuous learning, and building reliable sy
 🔹 Masking sensitive data in application logs
 🔹 Automation testing with Playwright
 🔹 Open-source collaboration (beginner-friendly)
+
+## ⚙️ My Personal Featured Projects
+🔹 Customer Line Management System
+🔹 Car Parking Fee Calculator 
+🔹 Employee Payroll System
+🔹 Number Sort
+🔹 South African Tax Calculator
+🔹 Student Accomodation Site 
