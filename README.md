@@ -16,3 +16,10 @@ I’m passionate about clean code, continuous learning, and building reliable sy
 **Testing & Automation:** Playwright
 **Concepts:** REST APIs, Clean Architecture, Logging, Error Handling, OOP, Data Structures, Algorithms
 **Databases:** SQL Server, MySQL, Firebase  
+
+## 📂 What I’m Working On
+🔹 Backend services using ASP.NET Core
+🔹 Improving logging and error-handling strategies
+🔹 Masking sensitive data in application logs
+🔹 Automation testing with Playwright
+🔹 Open-source collaboration (beginner-friendly)
