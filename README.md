@@ -9,3 +9,10 @@
 I’m a Junior Software Engineer working primarily with .NET  technologies, including ASP.NET Core and Entity Framework.
 
 I’m passionate about clean code, continuous learning, and building reliable systems that solve real-world problems. I enjoy improving existing systems, writing maintainable backend logic, and understanding how things work under the hood.
+
+## 🛠️ Technical Skills
+**Languages:** C#, SQL, Python, Java, JavaScript, SQL  
+**Frameworks & Tools:** ASP.NET Core, Entity Framework, Git, GitHub, Flask (basic), Pandas  
+**Testing & Automation:** Playwright
+**Concepts:** REST APIs, Clean Architecture, Logging, Error Handling, OOP, Data Structures, Algorithms
+**Databases:** SQL Server, MySQL, Firebase  
