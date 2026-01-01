@@ -18,19 +18,19 @@ I’m passionate about clean code, continuous learning, and building reliable sy
 **Databases:** SQL Server, MySQL, Firebase  
 
 ## 📂 What I’m Working On
-- 🔹 Backend services using ASP.NET Core
-- 🔹 Improving logging and error-handling strategies
-- 🔹 Masking sensitive data in application logs
-- 🔹 Automation testing with Playwright
-- 🔹 Open-source collaboration (beginner-friendly)
+- Backend services using ASP.NET Core
+- Improving logging and error-handling strategies
+- Masking sensitive data in application logs
+- Automation testing with Playwright
+- Open-source collaboration (beginner-friendly)
 
 ## ⚙️ My Personal Featured Projects
-- 🔹 Customer Line Management System 
-- 🔹 Car Parking Fee Calculator 
-- 🔹 Employee Payroll System
-- 🔹 Number Sort
-- 🔹 South African Tax Calculator
-- 🔹 Student Accomodation Site 
+- Customer Line Management System 
+- Car Parking Fee Calculator 
+- Employee Payroll System
+- Number Sort
+- South African Tax Calculator
+- Student Accomodation Site 
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/leo-m-14494a225/
